@@ -1,0 +1,30 @@
+[build]
+  publish = "."
+
+# OPTIONAL — only needed if you keep Netlify as a separate frontend host in
+# front of the Render backend. If Render is serving index.html directly
+# (server.py's GET '/' already does this), you don't need Netlify at all —
+# skip this file entirely and just use your Render URL.
+# Replace YOUR-RENDER-SERVICE with your actual Render service hostname,
+# e.g. driver-dashboard.onrender.com, then uncomment:
+# [[redirects]]
+#   from = "/api/*"
+#   to = "https://YOUR-RENDER-SERVICE.onrender.com/api/:splat"
+#   status = 200
+#   force = true
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[headers]]
+  for = "/Driver_Dashboard_v43_Portable_SQL.html"
+  [headers.values]
+    Cache-Control = "public, max-age=300"
+
+[[headers]]
+  for = "/sw.js"
+  [headers.values]
+    Cache-Control = "no-cache"
