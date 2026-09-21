@@ -1,4 +1,8 @@
 import os
+import re          # ← ADD THIS
+import secrets     # ← ADD THIS
+import hashlib     # ← ADD THIS
+import hmac 
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse, JSONResponse
