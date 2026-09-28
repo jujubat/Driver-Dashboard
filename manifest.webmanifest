@@ -1,0 +1,10 @@
+{
+  "name": "Driver Operations Dashboard",
+  "short_name": "Driver Ops",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0e17",
+  "theme_color": "#0b0e17",
+  "orientation": "any",
+  "description": "Mobile driver attendance, roster and operations dashboard"
+}

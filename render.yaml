@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: driver-dashboard
+    runtime: python
+    plan: starter
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn server:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      # Where the SQLite file lives — must match the disk mount path below.
+      - key: DB_DIR
+        value: /var/data
+    disks:
+      # Persistent disk so driver_dashboard.db survives redeploys/restarts.
+      # Render's regular filesystem is wiped on every deploy; anything not
+      # under a mounted disk (including a DB file written next to server.py)
+      # would otherwise vanish the next time you push a change.
+      - name: driver-dashboard-data
+        mountPath: /var/data
+        sizeGB: 1
