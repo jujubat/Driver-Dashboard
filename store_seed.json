@@ -1,0 +1,1672 @@
+{
+"Crescent": {
+"lat": -29.72438,
+"lng": 31.06139,
+"addr": "Nando's Crescent"
+},
+"Cresta": {
+"lat": -26.13214,
+"lng": 27.97631,
+"addr": "Shop UO37B, Cresta Shopping Centre Cnr Weltevreden Rd & Valley Ln"
+},
+"Crown Mines": {
+"lat": -26.21576,
+"lng": 28.01023,
+"addr": "Nando's Crown Mines"
+},
+"Croydon Drive Thru": {
+"lat": -26.13471,
+"lng": 28.19674,
+"addr": "Isando 17 Brabazon Rd"
+},
+"Diepkloof": {
+"lat": -26.24185,
+"lng": 27.94932,
+"addr": "15994 Eben Cuyler Dr, Diepkloof Zone 3, Diepmeadow, 1862, South Africa"
+},
+"Douglasdale": {
+"lat": -26.04051,
+"lng": 27.99404,
+"addr": "Shop 27, Douglasdale Village Shopping Centre Leslie Ave"
+},
+"Durban North": {
+"lat": -29.78528,
+"lng": 31.0398,
+"addr": "Cnr Adelaide Tambo Dr & Swapo Rd, Shop 62C, Astra Centre ."
+},
+"Eagles Landing": {
+"lat": -26.09595,
+"lng": 27.92726,
+"addr": "Shop 16, Eagles Landing Shopping Centre Cnr Christiaan de Wet & Scott Ave"
+},
+"East Rand Mall Drive Thru": {
+"lat": -26.18329,
+"lng": 28.23702,
+"addr": "East Rand Mall Cnr Rietfontein & Bental Rd"
+},
+"Empangeni": {
+"lat": -28.76016,
+"lng": 31.9121,
+"addr": "Corner of R102 and, Maple St, Empangeni, 3880, South Africa"
+},
+"Faerie Glen": {
+"lat": -25.7899,
+"lng": 28.32879,
+"addr": "Shop 20, Glen Village South Cnr Solomon Mahlangu & Olympus Dr"
+},
+"Florida Road": {
+"lat": -29.83417,
+"lng": 31.01796,
+"addr": "Morningside 124 Florida Rd"
+},
+"Fordsburg": {
+"lat": -26.20514,
+"lng": 28.0195,
+"addr": "Cnr Park Dr & Albertina Sisulu Rd, ."
+},
+"Ghandi Square": {
+"lat": -26.20671,
+"lng": 28.0424,
+"addr": "Shop 180, Ghandi Square, Metropolitan Building Cnr Main & Rissik St"
+},
+"Hatfield": {
+"lat": -25.75091,
+"lng": 28.23545,
+"addr": "Shop 1, Hatfield Corner 1101 Burnett St"
+},
+"Hillcrest": {
+"lat": -29.77999,
+"lng": 30.76337,
+"addr": "Shop 22, Christians Centre Cnr Old Main & Inanda Rd"
+},
+"Isipingo": {
+"lat": -29.98904,
+"lng": 30.92485,
+"addr": "3 Delhoo Ln, Isipingo Hills, Isipingo, 4115, South Africa"
+},
+"Jabulani Mall": {
+"lat": -26.25097,
+"lng": 27.85724,
+"addr": "Shop 72, Jabulani Mall Bolani St"
+},
+"Jean Avenue Drive Thru": {
+"lat": -25.84046,
+"lng": 28.18621,
+"addr": "Shop 41, Jean Crossing Cnr Rabie St & Jean Ave"
+},
+"Kenilworth": {
+"lat": -33.99061,
+"lng": 18.47958,
+"addr": "Shop 67, Rosmead square 71 Rosmead Ave"
+},
+"Kingsburgh": {
+"lat": -30.09843,
+"lng": 30.85546,
+"addr": "Nando's Kingsburgh"
+},
+"Krugersdorp Drive Thru": {
+"lat": -26.08665,
+"lng": 27.78101,
+"addr": "Nando's Krugersdorp Drive Thru"
+},
+"Kyalami Corner Drive Thru": {
+"lat": -25.98287,
+"lng": 28.0746,
+"addr": "Shop G19, Kyalami Downs Shopping Centre Kyalami Blvd"
+},
+"Leaping Frog Drive Thru": {
+"lat": -26.00873,
+"lng": 28.01252,
+"addr": "& William Nicol Dr,Unit 4,Leaping Frog Shopping Centre ."
+},
+"Lenasia Signet Terrace": {
+"lat": -26.31631,
+"lng": 27.8282,
+"addr": "Cnr Chris Hani Ave & Nelson Mandela Dr,Shop 75,Lephalale Centre ."
+},
+"Long Street": {
+"lat": -33.92003,
+"lng": 18.42184,
+"addr": "Cnr Waterkant & Long St ."
+},
+"Malibongwe Drive Thru": {
+"lat": -26.09534,
+"lng": 27.98573,
+"addr": "Malibongwe Dr,Shop 90,Appletons Village ."
+},
+"Mall Of Africa": {
+"lat": -26.0136,
+"lng": 28.1081,
+"addr": "Nando's Mall Of Africa"
+},
+"Mall@55": {
+"lat": -25.88393,
+"lng": 28.1054,
+"addr": "Cnr R55 &, Mall@55, Marais Ave, Monavoni AH, Centurion, 0157, South Africa"
+},
+"Maponya Mall": {
+"lat": -26.25995,
+"lng": 27.90221,
+"addr": "Chris Hani Rd,Shop 154,Maponya Mall ."
+},
+"Meadowdale Drive Thru": {
+"lat": -26.16071,
+"lng": 28.16771,
+"addr": "Van Riebeeck Ave,Meadowdale Mall ."
+},
+"Melville": {
+"lat": -26.18194,
+"lng": 28.00316,
+"addr": "Cnr Kingsway Ave & University Rd, Shop 66, Campus Square, Auckland Park, Johannesburg, 2092, South Africa"
+},
+"Menlyn Mall": {
+"lat": -25.78272,
+"lng": 28.27687,
+"addr": "Cnr Atterbury Rd & Lois Ave, Shop UF 21, Menlyn Mall"
+},
+"Menlyn Park Drive Thru": {
+"lat": -25.7906,
+"lng": 28.27822,
+"addr": "Cnr Garstfontein Rd & Shop 17, Menlyn Crossing, Corobay Ave, Menlyn, Pretoria, 0002, South Africa"
+},
+"Meyersdal": {
+"lat": -26.28712,
+"lng": 28.10474,
+"addr": "Cnr Michelle Ave & Jochem van Bruggen St, Meyersdal Square"
+},
+"Milnerton": {
+"lat": -33.88493,
+"lng": 18.49486,
+"addr": "42 Koeberg Rd, ."
+},
+"Mitchells Plain": {
+"lat": -34.03827,
+"lng": 18.61641,
+"addr": "Cnr A Z Berman Dr & Morgenster Rd, Shop 52, Liberty Promenade, Shopping Centre"
+},
+"Modderfontein Drive Thru": {
+"lat": -26.12234,
+"lng": 28.14286,
+"addr": "41 Greenstone Place, Greenstone Crescent Shopping Centre, ."
+},
+"Mokopane": {
+"lat": -24.18158,
+"lng": 29.01389,
+"addr": "Voortrekker St, Shop 2, Voortrekker Complex, Mokopane, 0601, South Africa"
+},
+"Montana Drive Thru": {
+"lat": -25.68083,
+"lng": 28.24749,
+"addr": "329 Dr Van Der Merwe Rd, ."
+},
+"Montclair": {
+"lat": -29.92428,
+"lng": 30.9685,
+"addr": "Cnr Montclair & Wood , Shop 39, Montclair Mall, ."
+},
+"Mount Edgecombe Plaza Drive Thru": {
+"lat": -29.72538,
+"lng": 31.0376,
+"addr": "2 Hillhead Dr, Shop 1, Mount Edgecombe Plaza, ."
+},
+"Nelpark Drive Thru": {
+"lat": -25.74192,
+"lng": 28.13608,
+"addr": "Cnr Transorange & Morkels St, ."
+},
+"Nelspruit (Brown Street)": {
+"lat": -25.47304,
+"lng": 30.97506,
+"addr": "Nando's Nelspruit (Brown Street)"
+},
+"Newlands West": {
+"lat": -29.78906,
+"lng": 30.97396,
+"addr": "784 Inanda Rd, Shop 4 & 5, Newlands Shopping Centre, ."
+},
+"Northmead Benoni": {
+"lat": -26.16946,
+"lng": 28.32838,
+"addr": "19 1st St, ."
+},
+"Northrand Road": {
+"lat": -26.17957,
+"lng": 28.25632,
+"addr": "Nando's Northrand Road"
+},
+"Ormonde": {
+"lat": -26.24275,
+"lng": 28.00597,
+"addr": "Cnr Crownwood Rd & Rente St, ."
+},
+"Ottery": {
+"lat": -34.01838,
+"lng": 18.51666,
+"addr": "Servitude Rd, Ground Floor, Ottery Hypermarket, ."
+},
+"Parktown": {
+"lat": -26.18414,
+"lng": 28.03619,
+"addr": "15 Wellington Rd, ."
+},
+"Parktown North": {
+"lat": -26.14484,
+"lng": 28.02837,
+"addr": "Cnr 3rd St & 7th Ave, Shop 2, North Park Plaza, ."
+},
+"Phoenix": {
+"lat": -29.70152,
+"lng": 31.00523,
+"addr": "Shop 46, Phoenix Plaza 19 Parthenon St"
+},
+"Pietermaritzburg (Victoria Road)": {
+"lat": -29.59746,
+"lng": 30.37088,
+"addr": "Nando's Pietermaritzburg (Victoria Road)"
+},
+"Pinetown Pine Crest": {
+"lat": -29.8119,
+"lng": 30.85785,
+"addr": "Nando's Pinetown Pine Crest"
+},
+"Polokwane CBD": {
+"lat": -23.90907,
+"lng": 29.45369,
+"addr": "Pietersburg 60 Schoeman St"
+},
+"Potchefstroom Riverwalk Drive Thru": {
+"lat": -26.71278,
+"lng": 27.10237,
+"addr": "Shop 222, Riverwalk Shopping Centre Cnr Nelson Mandela Dr & Govan Mbeki Ave"
+},
+"Pretoria North": {
+"lat": -25.67445,
+"lng": 28.17237,
+"addr": "Shop 518 Cnr Gerrit Maritz Rd & Emily Hobhouse Ave"
+},
+"Queens Corner": {
+"lat": -25.73233,
+"lng": 28.24524,
+"addr": "Shop 10, Ground Floor, Queens Corner Shopping Centre Cnr Soutpansberg Rd & Stead Ave"
+},
+"Richards Bay": {
+"lat": -28.75206,
+"lng": 32.04992,
+"addr": "Shop 10, Bellingham Park Shopping Centre 10 Penny Ln"
+},
+"Rivonia Drive Thru": {
+"lat": -26.06044,
+"lng": 28.05927,
+"addr": "7th Ave & Rivonia Rd, Edenburg, Sandton, 2128, South Africa"
+},
+"Rondebosch": {
+"lat": -33.96014,
+"lng": 18.4703,
+"addr": "Shop 20, Rondebosch Shopping Centre Main Rd"
+},
+"Rooihuiskraal Drive Thru": {
+"lat": -25.87178,
+"lng": 28.13629,
+"addr": "Shop E10, Mall@Reds Cnr Rooihuiskraal & Hendrik Verwoerd Dr"
+},
+"Rosebank": {
+"lat": -26.14487,
+"lng": 28.04227,
+"addr": "Shop LG05, The Zone Shopping Centre Oxford Rd"
+},
+"Sancardia": {
+"lat": -25.74498,
+"lng": 28.20517,
+"addr": "Shop 31 & 32, Sancardia Shopping Centre Cnr Steve Biko Rd & Stanza Bopape St"
+},
+"Sandton City": {
+"lat": -26.10935,
+"lng": 28.05324,
+"addr": "Shop L71, Lower Level, Sandton City Shopping Centre Cnr Rivonia Rd & 5th St"
+},
+"Savoy": {
+"lat": -26.13044,
+"lng": 28.08509,
+"addr": "Savoy, Johannesburg 553 Louis Botha Ave"
+},
+"Shelly Beach": {
+"lat": -30.80799,
+"lng": 30.4105,
+"addr": "Shops 9, 10 & 11, Boulevard Centre Cnr Marine Dr & East St"
+},
+"Southgate Value Mart": {
+"lat": -26.26547,
+"lng": 27.97929,
+"addr": "Shop 22, Southgate Value Mart Rifle Range Rd"
+},
+"Stanger -Checkers Centre": {
+"lat": -29.33928,
+"lng": 31.28908,
+"addr": "Shop 7 Checkers Centre Jackson Street"
+},
+"Sunny Park Centre": {
+"lat": -25.7509,
+"lng": 28.20322,
+"addr": "Sunny Park Centre Steve Biko Rd"
+},
+"Sunward Park Drive Thru": {
+"lat": -26.2571,
+"lng": 28.26862,
+"addr": "Sunward park Cnr Kingfisher Ave & Trichardt Rd"
+},
+"Table View": {
+"lat": -33.82909,
+"lng": 18.4873,
+"addr": "Nando's Table View"
+},
+"Thornhill Drive Thru": {
+"lat": -23.88225,
+"lng": 29.49837,
+"addr": "Thornhill, Polokwane Cnr Bendor Dr & Veldspaat St"
+},
+"Tramshed": {
+"lat": -25.74835,
+"lng": 28.19348,
+"addr": "Shop 1, Tramshed Centre Lilian Ngoyi St"
+},
+"Verulam": {
+"lat": -29.64358,
+"lng": 31.04757,
+"addr": "Nando's Verulam"
+},
+"Waterfall Drive Thru": {
+"lat": -26.01179,
+"lng": 28.1012,
+"addr": "Nando's Waterfall Drive Thru"
+},
+"Westgate": {
+"lat": -26.13987,
+"lng": 27.86142,
+"addr": "Nando's Westgate"
+},
+"Westwood Mall": {
+"lat": -29.82918,
+"lng": 30.96015,
+"addr": "Nando's Westwood Mall"
+},
+"Woodhill Boulevard": {
+"lat": -25.8189,
+"lng": 28.3046,
+"addr": "Nando's Woodhill Boulevard"
+},
+"Ruimsig": {
+"lat": -26.09111,
+"lng": 27.87028,
+"addr": "Shop 51A, Featherbrooke Village Cnr Peter & Hendrik Potgieter Rd"
+},
+"Bellville": {
+"lat": -33.8804,
+"lng": 18.63582,
+"addr": "102 Edward Rd ."
+},
+"Tokai": {
+"lat": -34.06665,
+"lng": 18.45743,
+"addr": "238 Main Rd, Tokai, Cape Town, 7945, South Africa"
+},
+"Lydenburg": {
+"lat": -25.09557,
+"lng": 30.45456,
+"addr": "Nando's Lydenburg"
+},
+"Vangate": {
+"lat": -33.96141,
+"lng": 18.53901,
+"addr": "Nando's Vangate"
+},
+"Fourways": {
+"lat": -26.01888,
+"lng": 28.00641,
+"addr": "11 Ruby Cl, Witkoppen, Sandton, 2068, South Africa"
+},
+"Port Shepstone": {
+"lat": -30.74301,
+"lng": 30.45562,
+"addr": "Shop 19, Pick 'n Pay Centre, Oribi Plaza Cnr Aiken & Sinclair St"
+},
+"Katherine Street": {
+"lat": -26.10763,
+"lng": 28.06372,
+"addr": "104 Katherine St, Sandown, Sandton, 2031, South Africa"
+},
+"Stanger (Market Plaza)": {
+"lat": -29.34058,
+"lng": 31.29547,
+"addr": "Cnr Cato&King Shaka St,Shop2,Stanger Market Plaza ."
+},
+"Trade Route Drive Thru": {
+"lat": -26.3277,
+"lng": 27.87048,
+"addr": "Trade Route Mall Nirvana Dr"
+},
+"7 Eagles Spur": {
+"lat": -26.11857,
+"lng": 28.14097,
+"addr": "Shop L103, Greenstone Mall, Cnr Modderfontein & Van Riebeeck Ave, Edenvale, Johannesburg, Gauteng, 1609"
+},
+"Alamo Spur": {
+"lat": -33.87259,
+"lng": 18.63398,
+"addr": "Shop 566, Tygervalley Centre, Cnr Willie van Schoor & Bill Bezuidenhout Ave, Bellville, Cape Town, Western Cape, 7530"
+},
+"Cahokia Spur": {
+"lat": -33.85226,
+"lng": 18.69738,
+"addr": "Shop S94, Cape Gate Shopping Centre, Okavango Rd., Brackenfell, Cape Town, Western Cape, 7570"
+},
+"Diamond Peak Spur": {
+"lat": -33.92114,
+"lng": 18.42162,
+"addr": "The Pinnacle Building, 6 Burg St, Cape Town City Centre, Cape Town, 8001, South Africa"
+},
+"Eagle Falls Spur": {
+"lat": -26.01742,
+"lng": 28.0133,
+"addr": "Shop U7, Fourways Crossing  Retail Centre, Cnr William Nicol, Sunrise Boulevard & Sunset Avenue, Fourways, Johannesburg, Gauteng, 2068"
+},
+"Golden Spur": {
+"lat": -33.96176,
+"lng": 18.47016,
+"addr": "Cnr Main, Belmont, Paul and Forest Roads, Shop 25 Riverside Mall, Rondebosch, Cape Town, Western Cape, 7700"
+},
+"Hawk Lake Spur": {
+"lat": -25.85606,
+"lng": 28.18842,
+"addr": "Shop 102, Centurion Mall, Heuwel Ave, Centurion, Pretoria, Gauteng, 0157"
+},
+"Hawk Ridge Spur Drive Thru": {
+"lat": -26.01045,
+"lng": 28.12173,
+"addr": "Le Roux Avenue, Halfway House Ext 113, Halfway House, Midrand, Gauteng, 1685"
+},
+"John Dory's Century City": {
+"lat": -33.89266,
+"lng": 18.51026,
+"addr": "Century Boulevard, Shop 483, Canal Walk Shopping Centre, Century City, Cape Town, Western Cape, 7441"
+},
+"John Dory's Greenstone": {
+"lat": -26.11858,
+"lng": 28.14107,
+"addr": "10 Stoneridge Drive, Shop L105, Greenstone Shopping Centre, Edenvale, Johannesburg, Gauteng, 2000"
+},
+"John Dory's N1 City": {
+"lat": -33.89168,
+"lng": 18.55986,
+"addr": "Louwtjie Rothman Street, Shop U03A, N1 City Mall, Goodwood, Cape Town, Western Cape, 7460"
+},
+"Lone Creek Spur": {
+"lat": -26.01564,
+"lng": 28.10659,
+"addr": "Shop 1169, Mall of Africa, Magwa Crescent, Midrand, Johannesburg, Gauteng, 1682"
+},
+"Malibu Spur": {
+"lat": -33.82283,
+"lng": 18.48934,
+"addr": "Shop 4, Bayside Centre, Cnr Blaauwberg & West Coast Road, Table View, Cape Town, Western Cape, 7441"
+},
+"Manitoba Spur": {
+"lat": -33.8327,
+"lng": 18.68585,
+"addr": "Shop 26, Pinehurst Shopping Centre, Durbanville, cnr Brackenfell Boulevard & Pinehurst Drive, Cape Town, Western Cape, 7550"
+},
+"Mexico Spur": {
+"lat": -33.89247,
+"lng": 18.51033,
+"addr": "Shop R1, Canal Walk, Century Boulevard, Milnerton, Cape Town, Western Cape, 7441"
+},
+"Minnetonka Spur": {
+"lat": -25.9827,
+"lng": 28.1182,
+"addr": "Shop A9, Carlswald Décor Centre, 5th Street, Halfway Gardens, Midrand, Gauteng, 1686"
+},
+"Ottawa Spur": {
+"lat": -33.98009,
+"lng": 18.46423,
+"addr": "Shop F18, Cavendish Connect, Dreyer Street, Claremont, Cape Town, Western Cape, 7708"
+},
+"Panarottis Cape Gate": {
+"lat": -33.85189,
+"lng": 18.69741,
+"addr": "Shop U27, Cape Gate Shopping Centre, Capegate Blvd, Brackenfell, Cape Town, Western Cape, 7570"
+},
+"Panarottis Centurion LFC": {
+"lat": -25.87744,
+"lng": 28.1651,
+"addr": "Shop G19, Lenchen Ave, Brakfontein 399-Jr, Centurion, 0157, South Africa"
+},
+"Panarottis Centurion Mall": {
+"lat": -25.85714,
+"lng": 28.18766,
+"addr": "Shop 290, Centurion Mall, Heuwel Road, Centurion Central, Centurion, Gauteng, 0157"
+},
+"Panarottis Century City": {
+"lat": -33.89243,
+"lng": 18.51058,
+"addr": "Shop 487, Canal Walk, Century Blvd, Milnerton, Cape Town, Western Cape, 7446"
+},
+"Panarottis Greenstone": {
+"lat": -26.11846,
+"lng": 28.14115,
+"addr": "Shop L097, Greenstone Shopping Centre, Blackrock St, Modderfontein, Lethabong, 1609, South Africa"
+},
+"Panarottis Kenilworth": {
+"lat": -33.98852,
+"lng": 18.48457,
+"addr": "Shop 109, Kenilworth Centre, Doncaster Rd, Kenilworth, Cape Town, Western Cape, 7735"
+},
+"Panarottis Morning Glen": {
+"lat": -26.06711,
+"lng": 28.07404,
+"addr": "Shop 43 Morning Glen Shopping Centre, cnr Kelvin & Bowling Drive, Morningside Manor, Sandton, Gauteng, 2057"
+},
+"Panarottis N1 City": {
+"lat": -33.89182,
+"lng": 18.55981,
+"addr": "Shop U22, N1 City Mall, Louwtjie Rothman St, Goodwood, Cape Town, Western Cape, 7460"
+},
+"Panarottis Pizza Salt Food Market": {
+"lat": -33.92028,
+"lng": 18.42268,
+"addr": "Pod 10, The Salt Food Market, The Box, 9 Lower Burg Street, Cape Town, Western Cape, 8001"
+},
+"Panarottis The Zone": {
+"lat": -26.1454,
+"lng": 28.04343,
+"addr": "Shop FF034, Ff03B and FC16, The Zone Shopping Centre, Oxford Road, Rosebank, Johannesburg, Gauteng, 2196"
+},
+"Panarottis Tygervalley": {
+"lat": -33.87229,
+"lng": 18.63412,
+"addr": "Shop 570, Tygervalley Shopping Centre, Cnr Willie van Schoor & Bill Bezuidenhout Ave, Bellville, Cape Town, Western Cape, 7530"
+},
+"RocoMamas Canal Walk": {
+"lat": -33.89307,
+"lng": 18.51066,
+"addr": "Shop 152B, Canal Walk Shopping Centre, Century City, Cape Town, Western Cape, 7441"
+},
+"RocoMamas Cape Gate": {
+"lat": -33.85245,
+"lng": 18.69738,
+"addr": "Shop U38 Cape Gate Shopping Centre, cnr Okavango Drive and De Bron Road, Brackenfell, Cape Town, Western Cape, 7562"
+},
+"RocoMamas Centurion Lifestyle Centre": {
+"lat": -25.87752,
+"lng": 28.1651,
+"addr": "Shop G23/24/26, Centurion Lifestyle Centre,, Cnr Old Johannesburg and Lenchen South Roads, Centurion, Pretoria, Gauteng, 0046"
+},
+"RocoMamas Grayston": {
+"lat": -26.10009,
+"lng": 28.0659,
+"addr": "Shop 5A, Grayston Shopping Centre, Corner Grayston Drive & Helen Road, Sandton CBD, Johannesburg, Gauteng, 2031"
+},
+"RocoMamas Kenilworth": {
+"lat": -33.989,
+"lng": 18.48475,
+"addr": "Shop 116 Kenilworth Centre, Doncaster Road, Kenilworth, Cape Town, Western Cape, 7506"
+},
+"RocoMamas Kyalami": {
+"lat": -26.00209,
+"lng": 28.07575,
+"addr": "Woodmead Dr &, Dytchley Rd, Kyalami, Midrand, 1684, South Africa"
+},
+"RocoMamas Long Street": {
+"lat": -33.91959,
+"lng": 18.42208,
+"addr": "Shop 3, 14 Long Street, Cape Town, Western Cape, 8001"
+},
+"RocoMamas Mall of Africa": {
+"lat": -26.01591,
+"lng": 28.10626,
+"addr": "Shop 2058, Mall of Africa, Magwa Crescent, Waterfall City, Midrand, Gauteng, 1682"
+},
+"RocoMamas N1 City": {
+"lat": -33.89219,
+"lng": 18.55994,
+"addr": "Shop A, U28, N1 City Mall, Louwtjie Rothman Street, Goodwood, Cape Town, Western Cape, 7460"
+},
+"RocoMamas Nelson Mandela Square": {
+"lat": -26.10767,
+"lng": 28.05433,
+"addr": "Shop 109, Nelson Mandela Square, Sandton City, Corner of Maude and 5th Streets,, Sandown, Sandton, Gauteng, 2191"
+},
+"RocoMamas Pineslopes": {
+"lat": -26.02171,
+"lng": 28.01383,
+"addr": "Shop 011, Pineslopes Shopping Centre, Cnr Witkoppen Road & The Straight, Fourways, Johannesburg, Gauteng, 2191"
+},
+"RocoMamas Rivonia": {
+"lat": -26.05941,
+"lng": 28.06047,
+"addr": "Shop G02, Rivonia Village Shopping Centre, Cnr Rivonia Boulevard & Mutual Road, Rivonia, Johannesburg, Gauteng, 2191"
+},
+"RocoMamas Rondebosch": {
+"lat": -33.96256,
+"lng": 18.47004,
+"addr": "Shop 37, Riverside Mall, Main Road, Rondebosch, Cape Town, Western Cape, 7700"
+},
+"RocoMamas Rosebank": {
+"lat": -26.14481,
+"lng": 28.04235,
+"addr": "Shop CR01 and CR010S, Standard Bank Rosebank Building, Cnr Craddock and Tyrwhitt Avenue, Rosebank, Johannesburg, Gauteng, 2196"
+},
+"RocoMamas Tableview": {
+"lat": -33.81721,
+"lng": 18.49706,
+"addr": "Parklands Lifestyle Centre, Parklands Main Road, Table View, Cape Town, Western Cape, 7441"
+},
+"RocoMamas Willowbridge": {
+"lat": -33.86975,
+"lng": 18.63183,
+"addr": "Shop G52-53, The Willowbridge Shopping Centre, 39 Carl Cronje Drive, Tygervalley, Cape Town, Western Cape, 7530"
+},
+"Rodeo Spur": {
+"lat": -33.98133,
+"lng": 18.46486,
+"addr": "Warwick Place, Pearce Road, Claremont, Cape Town, Western Cape, 7700"
+},
+"San Antonio Spur": {
+"lat": -26.10847,
+"lng": 28.05371,
+"addr": "Shop C12 & C13, Sandton City Shopping Centre, Cnr Rivonia Road and 5th Street, Sandton, Johannesburg, Gauteng, 2191"
+},
+"Texakhana Spur": {
+"lat": -26.14514,
+"lng": 28.04334,
+"addr": "Shop FF02, The Zone @ Rosebank, Oxford Road, Rosebank, Johannesburg, Gauteng, 2196"
+},
+"Texas Spur": {
+"lat": -33.8917,
+"lng": 18.55948,
+"addr": "Shop U1, N1 City Mall, Louwtjie Rothman Street, Goodwood, Cape Town, Western Cape, 7460"
+},
+"Thunder Ridge Spur": {
+"lat": -25.86505,
+"lng": 28.13736,
+"addr": "Cnr Rooihuiskraal & Basson Streets, Centurion, Pretoria, Gauteng, 0157"
+},
+"Topeka Spur": {
+"lat": -33.98885,
+"lng": 18.48519,
+"addr": "Shop 125, Kenilworth Shopping Centre, Doncaster Road, Kenilworth, Cape Town, Western Cape, 7708"
+},
+"Scottsville": {
+"lat": -29.61691,
+"lng": 30.39646,
+"addr": "Shop 64, Sidewalk Centre 59 Alan Paton Ave"
+},
+"V/A Waterfront": {
+"lat": -33.90431,
+"lng": 18.41975,
+"addr": "Nando's V/A Waterfront"
+},
+"OR Tambo Airport (Domestic)": {
+"lat": -26.13544,
+"lng": 28.2318,
+"addr": "O.R Tambo Airport, Shop 36, The Food Court, Domestic Terminal, ."
+},
+"Galleria (Amanzimtoti)": {
+"lat": -30.03469,
+"lng": 30.90086,
+"addr": "Shop S10, The Galleria Cnr Moss Kolnick Dr & N2"
+},
+"Piet Retief": {
+"lat": -27.00165,
+"lng": 30.80246,
+"addr": "Shop A, Ralmarco Building 15 Kerk St"
+},
+"Atlas Road": {
+"lat": -26.185,
+"lng": 28.28103,
+"addr": "Cnr Phillips & Atlas Rd, Westwood Village Shopping Centre, ."
+},
+"Groblersdal": {
+"lat": -25.16653,
+"lng": 29.40358,
+"addr": "Shop 4, Fokus Building 20 Van Riebeeck St"
+},
+"Chatsworth": {
+"lat": -29.91342,
+"lng": 30.87967,
+"addr": "17 Joyhurst St,Shop 14,Chatsworth Centre ."
+},
+"Oxford Street (East London)": {
+"lat": -33.0195,
+"lng": 27.90569,
+"addr": "Cnr Fleet & Oxford St, ."
+},
+"Bloemfontein (Nelson Mandela Dr)": {
+"lat": -29.11054,
+"lng": 26.20503,
+"addr": "Cnr Nelson Mandela Dr & Zastron St,Caltex Centre ."
+},
+"Bela-Bela": {
+"lat": -24.88764,
+"lng": 28.2942,
+"addr": "Nando's Bela-Bela"
+},
+"Pinetown": {
+"lat": -29.81721,
+"lng": 30.86651,
+"addr": "Pinetown 41 St Johns Ave"
+},
+"Comaro Crossing": {
+"lat": -26.2661,
+"lng": 28.05927,
+"addr": "Cnr Boundary Ln & Comaro St,Shop25B,Comaro crossing Shopping Centre"
+},
+"Randfontein Village Square": {
+"lat": -26.1766,
+"lng": 27.70449,
+"addr": "Shop 46 & 47, The Village Square Cnr Main Rd & 8th St"
+},
+"Grassy Park Drive Thru": {
+"lat": -34.05388,
+"lng": 18.48839,
+"addr": "Grassy Park Cnr Prince George Dr & 5th Ave"
+},
+"Umlazi Drive Thru": {
+"lat": -29.95386,
+"lng": 30.94024,
+"addr": "Nando's Umlazi Drive Thru"
+},
+"Witbank Klipfontein Drive Thru": {
+"lat": -25.89911,
+"lng": 29.23278,
+"addr": "Nando's Witbank Klipfontein Drive Thru"
+},
+"Carnival Mall": {
+"lat": -26.25107,
+"lng": 28.31684,
+"addr": "Cnr Airport & Heidelberg Rd,Shop 62,Mall@carnival ."
+},
+"Mthatha": {
+"lat": -31.59349,
+"lng": 28.76717,
+"addr": "Nelson Mandela Dr, Unit 9, Savoy Shopping Centre, ."
+},
+"Thohoyandou Venda Plaza": {
+"lat": -22.9727,
+"lng": 30.45699,
+"addr": "Shop 2, Venda Plaza Cnr Main Rd & Casino Blvd"
+},
+"Emperors Palace": {
+"lat": -26.14589,
+"lng": 28.22175,
+"addr": "64 Jones Rd,Shop 16, Epsom Down Shopping Centre ."
+},
+"Soshanguve": {
+"lat": -25.49304,
+"lng": 28.09192,
+"addr": "Shop 18, Pick 'n Pay Shopping Centre 13 Buitekant St"
+},
+"Durbanville": {
+"lat": -33.83009,
+"lng": 18.64679,
+"addr": "Nando's Durbanville"
+},
+"Festival Mall": {
+"lat": -26.10532,
+"lng": 28.2227,
+"addr": "Shop 56, Festival Mall Shopping Centre Kelvin St"
+},
+"Tubatse Crossing": {
+"lat": -24.66175,
+"lng": 30.31342,
+"addr": "Shop 34 A, Tubatse Crossing Dirk Winterbach St"
+},
+"Church Street": {
+"lat": -29.60158,
+"lng": 30.37879,
+"addr": "Cnr Chief Albert Luthuli & Church St ."
+},
+"Brits Drive Thru": {
+"lat": -25.62985,
+"lng": 27.78156,
+"addr": "Cnr Hendrik Verwoerd Ave & Harrington St,Shop 1&2,Rossouw building"
+},
+"Parow": {
+"lat": -33.90531,
+"lng": 18.59208,
+"addr": "261 Voortrekker Rd, ."
+},
+"Sandown": {
+"lat": -33.8009,
+"lng": 18.50066,
+"addr": "Shop G42, Sandowns Retail Crossing Cnr Sandown Rd & Wood Dr"
+},
+"Eldorado Park": {
+"lat": -26.2917,
+"lng": 27.90666,
+"addr": "Shops 20 & 21, Shoprite Centre Sirkel Ave"
+},
+"Nelspruit (Riverside Mall)": {
+"lat": -25.43782,
+"lng": 30.96726,
+"addr": "Shop 90, Riverside Mall Madiba Dr"
+},
+"Paarl Drive Thru": {
+"lat": -33.72792,
+"lng": 18.97273,
+"addr": "Nando's Paarl Drive Thru"
+},
+"Corlett Drive Thru": {
+"lat": -26.12896,
+"lng": 28.06828,
+"addr": "Melrose, Johannesburg Cnr Fort St & Park Rd"
+},
+"Jubilee Mall": {
+"lat": -25.40564,
+"lng": 28.27004,
+"addr": "Shop 120, Jubilee Mall Cnr Jubilee Rd & Harry Gwala Ave"
+},
+"BrackenHurst": {
+"lat": -26.32725,
+"lng": 28.09881,
+"addr": "119 Hennie Alberts St,Bracken Gardens ."
+},
+"Campus Kitchen": {
+"lat": -26.1933,
+"lng": 28.06951,
+"addr": "Nandos SA 10A Victoria Rd"
+},
+"Grand West Casino": {
+"lat": -33.91678,
+"lng": 18.54755,
+"addr": "Goodwood Vanguard Drive"
+},
+"George Drive Thru": {
+"lat": -33.96216,
+"lng": 22.47527,
+"addr": "George 74 Knysna St"
+},
+"Malelane - Engene": {
+"lat": -25.49532,
+"lng": 31.50682,
+"addr": "Air St ."
+},
+"Lynwood Lane": {
+"lat": -25.76841,
+"lng": 28.32875,
+"addr": "Nando's Lynwood Lane"
+},
+"Bushbuckridge": {
+"lat": -24.94953,
+"lng": 31.37084,
+"addr": "Nando's Bushbuckridge"
+},
+"Horizon View Drive Thru": {
+"lat": -26.14206,
+"lng": 27.86902,
+"addr": "The Village Sonop St"
+},
+"Kathu Drive Thru": {
+"lat": -27.69113,
+"lng": 23.06959,
+"addr": "Heritage Square Mall Cnr Frikkie Meyer & Rooisand St"
+},
+"Middelburg 2 (Maranata Centre)": {
+"lat": -25.76743,
+"lng": 29.45491,
+"addr": "5 Walter Sisulu St, Shop Marantana Centre ."
+},
+"Louis Trichardt (Makhado)": {
+"lat": -23.04012,
+"lng": 29.9079,
+"addr": "26 Songozwi St,Stand 278,FNB Building ."
+},
+"Walmer Drive Thru": {
+"lat": -33.98518,
+"lng": 25.5539,
+"addr": "Nando's Walmer Drive Thru"
+},
+"Mall Of The North": {
+"lat": -23.87316,
+"lng": 29.50973,
+"addr": "R81,Shop 41,Jean Crossing ."
+},
+"Fleurdal Drive Thru": {
+"lat": -29.15455,
+"lng": 26.18886,
+"addr": "Royal Square Building 34 Curie Ave"
+},
+"Coastlands": {
+"lat": -29.85642,
+"lng": 31.03695,
+"addr": "45 Dr Pixley kaseme St ."
+},
+"Zeerust": {
+"lat": -25.54484,
+"lng": 26.08053,
+"addr": "Nando's Zeerust"
+},
+"Rustenburg": {
+"lat": -25.6704,
+"lng": 27.24071,
+"addr": "Rustenburg 56 Nelson Mandela Dr"
+},
+"Maluti Mall": {
+"lat": -28.53415,
+"lng": 28.8163,
+"addr": "Nando's Maluti Mall"
+},
+"Showgrounds Drive Thru": {
+"lat": -29.59012,
+"lng": 30.37561,
+"addr": "Pietermaritzburg 152 Chatterton Rd"
+},
+"Umzimkhulu": {
+"lat": -30.25954,
+"lng": 29.94059,
+"addr": "Nando's Umzimkhulu"
+},
+"Musina": {
+"lat": -22.34056,
+"lng": 30.04139,
+"addr": "N1 Hwy, Shop 20/21, Great North Plaza, ."
+},
+"Athlone": {
+"lat": -33.98436,
+"lng": 18.51597,
+"addr": "Cnr Arbeids & Belgravia Rd, Shop 281 ."
+},
+"Summerstrand": {
+"lat": -33.97687,
+"lng": 25.64833,
+"addr": "Shop 8, Dolphins Leap Shopping Centre Cnr La Roche Dr & Beach Rd"
+},
+"Musgrave": {
+"lat": -29.84904,
+"lng": 31.00009,
+"addr": "115 Musgrave Rd, Shop 5314, Level 3, Musgrave Centre, ."
+},
+"uShaka": {
+"lat": -29.86728,
+"lng": 31.04299,
+"addr": "Nando's uShaka"
+},
+"Vereeniging": {
+"lat": -26.66692,
+"lng": 27.93346,
+"addr": "Nando's Vereeniging"
+},
+"Empangeni Drive Thru": {
+"lat": -28.75873,
+"lng": 31.90213,
+"addr": "Five Ways Mall Cnr Paul Ave & Rex Henderson Rd"
+},
+"Centurion Lifestyle Drive Thru": {
+"lat": -25.87806,
+"lng": 28.16227,
+"addr": "Cnr Old Jhb & Lenchen Rd,Centurion Lifestyle Centre ."
+},
+"Magaliesview": {
+"lat": -25.69494,
+"lng": 27.25421,
+"addr": "Korokoro St,Shop 1,Waterval East ."
+},
+"Welkom": {
+"lat": -27.97839,
+"lng": 26.73124,
+"addr": "Nando's Welkom"
+},
+"Linksfield": {
+"lat": -26.14999,
+"lng": 28.12257,
+"addr": "Nando's Linksfield"
+},
+"Reservoir Hills": {
+"lat": -29.80174,
+"lng": 30.96258,
+"addr": "Shop G5 365 New Germany Rd"
+},
+"Boulders": {
+"lat": -25.99676,
+"lng": 28.12748,
+"addr": "Shop 51, The Boulders Shopping Centre Old Pretoria Main Rd"
+},
+"Vryheid": {
+"lat": -27.76898,
+"lng": 30.79066,
+"addr": "Nando's Vryheid"
+},
+"Kempton Park": {
+"lat": -26.10285,
+"lng": 28.22603,
+"addr": "Shop 20, Kempton Place 12 Pretoria Rd"
+},
+"Canterbury Crossing": {
+"lat": -26.10633,
+"lng": 28.00134,
+"addr": "Cnr BramFischer & Hunter St,Shop CG13,Canterbury Crossing Shopping Centre"
+},
+"Springs": {
+"lat": -26.26275,
+"lng": 28.43848,
+"addr": "Springs Cnr 3rd Ave & Springs West Rd"
+},
+"Kimberley": {
+"lat": -28.7433,
+"lng": 24.76477,
+"addr": "Shop 21, Kim Park Centre Cnr Lennox & Chapel St"
+},
+"Bluff Drive Thru": {
+"lat": -29.9291,
+"lng": 31.0017,
+"addr": "201 Tara Rd,Bluff PnP Centre Kwamashu ."
+},
+"The Glen": {
+"lat": -26.26778,
+"lng": 28.05082,
+"addr": "Nando's The Glen"
+},
+"Century City": {
+"lat": -33.89237,
+"lng": 18.51248,
+"addr": "Century City Dr,Shop FC10,Canal Walk ."
+},
+"Ilanga Mall": {
+"lat": -25.46906,
+"lng": 30.95641,
+"addr": "Nando's Ilanga Mall"
+},
+"Giyani": {
+"lat": -23.30635,
+"lng": 30.6867,
+"addr": "Shop 21, Masingita Plaza Malamulele Rd"
+},
+"Vryburg Engen": {
+"lat": -26.95821,
+"lng": 24.73252,
+"addr": "Nando's Vryburg Engen"
+},
+"Cape Road Drive Thru": {
+"lat": -33.94833,
+"lng": 25.55932,
+"addr": "338 Cape Rd ."
+},
+"Alzu (Middelburg)": {
+"lat": -25.83364,
+"lng": 29.7938,
+"addr": "N4 Hwy, Total Alzu Petroport ."
+},
+"Witbank": {
+"lat": -25.87457,
+"lng": 29.21069,
+"addr": "Nando's Witbank"
+},
+"Boskruin": {
+"lat": -26.08779,
+"lng": 27.9581,
+"addr": "Hawken Ave & President Fouche Dr, Boskruin, Randburg, 2188, South Africa"
+},
+"Benmore Gardens": {
+"lat": -26.09985,
+"lng": 28.04895,
+"addr": "Cnr Grayston Dr & Benmore Rd, Shop 40, Benmore Shopping Centre ."
+},
+"Dr Pixley Kaseme Street": {
+"lat": -29.85846,
+"lng": 31.02431,
+"addr": "Shop 35, Mutual Mall 303 Dr Pixley Kaseme St"
+},
+"Umgeni Junction": {
+"lat": -29.81179,
+"lng": 30.99374,
+"addr": "Nando's Umgeni Junction"
+},
+"Makhado Crossing": {
+"lat": -23.04094,
+"lng": 29.90718,
+"addr": "Nando's Makhado Crossing"
+},
+"Middelburg Mall": {
+"lat": -25.76946,
+"lng": 29.46192,
+"addr": "Cnr Lillian Ngoyi & Cowen Ntuli St, ."
+},
+"Bloemfontein (Preller Square)": {
+"lat": -29.08709,
+"lng": 26.21232,
+"addr": "Nando's Bloemfontein (Preller Square)"
+},
+"Eldoraigne": {
+"lat": -25.84143,
+"lng": 28.16089,
+"addr": "Shop 50, Eldoraigne Village Shopping Centre Cnr Saxby & Frederick Ave"
+},
+"Newcastle Drive Thru": {
+"lat": -27.74545,
+"lng": 29.93088,
+"addr": "Memel Rd, ."
+},
+"Sun Coast": {
+"lat": -29.83594,
+"lng": 31.03364,
+"addr": "Shop L10, Sun Coast Casino 1 Battery Beach Rd"
+},
+"Chilli Lane": {
+"lat": -26.03005,
+"lng": 28.06042,
+"addr": "Cnr Leeuwkop & Rivonia Rd,Chilli Lane Shopping Centre ."
+},
+"Queenstown": {
+"lat": -31.89786,
+"lng": 26.8758,
+"addr": "Queenstown 32 Cathcart Rd"
+},
+"Newcastle Mall": {
+"lat": -27.77586,
+"lng": 29.94509,
+"addr": "Cnr Ladysmith Rd & Oak St, Shop 103, Newcastle Mall, ."
+},
+"Norwood": {
+"lat": -26.15704,
+"lng": 28.07569,
+"addr": "107 William Rd, ."
+},
+"Howick": {
+"lat": -29.48474,
+"lng": 30.23411,
+"addr": "Shop 6, Falls Shopping Centre 21 Main Rd"
+},
+"Kosher": {
+"lat": -26.13266,
+"lng": 28.08419,
+"addr": "Nando's Kosher"
+},
+"Benoni Lake": {
+"lat": -26.18538,
+"lng": 28.31546,
+"addr": "Tom Jones St, Shop E18, Lakeside Mall ."
+},
+"Thavhani Drive Thru": {
+"lat": -22.98212,
+"lng": 30.46396,
+"addr": "Nando's Thavhani Drive Thru"
+},
+"Lambton Drive Thru": {
+"lat": -26.2384,
+"lng": 28.17495,
+"addr": "96 Webber Rd ."
+},
+"Platterkloof Village": {
+"lat": -33.86575,
+"lng": 18.57087,
+"addr": "Shop R04, Plattekloof Village Shopping Centre Cnr Plattekloof Rd & Baronetcy Blvd"
+},
+"King Williams Town": {
+"lat": -32.87639,
+"lng": 27.39112,
+"addr": "King Williams Town 125 Alexandra St"
+},
+"Florida": {
+"lat": -26.17709,
+"lng": 27.92298,
+"addr": "Shop 13, Goldman Crossing Shopping Centre Cnr 9th Ave & Goldman St"
+},
+"Langenhoven Park": {
+"lat": -29.09477,
+"lng": 26.16447,
+"addr": "Nando's Langenhoven Park"
+},
+"Silverton": {
+"lat": -25.73332,
+"lng": 28.30314,
+"addr": "Shop 25, East Way Centre 617 Pretoria St"
+},
+"Ermelo": {
+"lat": -26.53417,
+"lng": 29.98945,
+"addr": "Ermelo 8 Church St"
+},
+"Vanderbijlpark": {
+"lat": -26.70505,
+"lng": 27.83533,
+"addr": "Nando's Vanderbijlpark"
+},
+"Scottburgh": {
+"lat": -30.28592,
+"lng": 30.75601,
+"addr": "Scottburgh 112 Scott St"
+},
+"Alberton New Market": {
+"lat": -26.27801,
+"lng": 28.12455,
+"addr": "Heidelberg Rd, Shop 248, Mall at Newmarket, ."
+},
+"N12 Klerksdorp Drive Thru": {
+"lat": -26.85796,
+"lng": 26.67186,
+"addr": "52 Jhb Rd,Shop 1 ."
+},
+"Banbury Drive Thru": {
+"lat": -26.06097,
+"lng": 27.95418,
+"addr": "Olievenhout Ave, Shop B1 Northview Centre ."
+},
+"The Square Ladysmith": {
+"lat": -28.5566,
+"lng": 29.77178,
+"addr": "Nando's The Square Ladysmith"
+},
+"Gardens": {
+"lat": -33.92892,
+"lng": 18.41132,
+"addr": "Ground Floor, Earlgo Building 42 Kloof St"
+},
+"Heidelberg": {
+"lat": -26.48439,
+"lng": 28.37078,
+"addr": "PG Centre 52 Voortrekker Street"
+},
+"Gold Reef City": {
+"lat": -26.24275,
+"lng": 28.00597,
+"addr": "Nando's Gold Reef City"
+},
+"Secunda": {
+"lat": -26.50634,
+"lng": 29.18679,
+"addr": "Shop 4, The Junxion Louwrens Muller St"
+},
+"Ballito Junction": {
+"lat": -29.52477,
+"lng": 31.20096,
+"addr": "Nando's Ballito Junction"
+},
+"Sibaya Casino": {
+"lat": -29.68041,
+"lng": 31.10238,
+"addr": "Shop 3, Sibaya Casino 1 Sibaya Dr"
+},
+"Colombo": {
+"lat": -29.85941,
+"lng": 31.01805,
+"addr": "465 Dr Pixley Kaseme St,Colombo House ."
+},
+"Blue Hills Drive Thru": {
+"lat": -25.94383,
+"lng": 28.10585,
+"addr": "Shop 75, Blue Hills Shopping Centre Cnr Olifantsfontein Rd & African View Dr"
+},
+"Dundee": {
+"lat": -28.16414,
+"lng": 30.2354,
+"addr": "Shop 42, Saimat Family Trust Cnr Boundary Rd & Victoria St"
+},
+"Mtubatuba": {
+"lat": -28.41146,
+"lng": 32.18653,
+"addr": "Cnr John Ross Hwy & R618 ."
+},
+"Plumstead": {
+"lat": -33.92214,
+"lng": 18.46487,
+"addr": "Pick 'n Pay Centre Cnr Gabriel & Witklow Rd"
+},
+"Pavillion": {
+"lat": -29.84987,
+"lng": 30.93456,
+"addr": "Nando's Pavillion"
+},
+"N1 City Drive Thru": {
+"lat": -33.89249,
+"lng": 18.55469,
+"addr": "Solly Smiedt St, Shop 7, N1 City Value Centre, ."
+},
+"Northdale": {
+"lat": -29.57985,
+"lng": 30.39976,
+"addr": "Dr Chota Motala Rd, Northway Mall, ."
+},
+"Adderley": {
+"lat": -33.92304,
+"lng": 18.42224,
+"addr": "Adderley St, Shop 6V, Grand Parade Centre ."
+},
+"Ulundi": {
+"lat": -28.30018,
+"lng": 31.42146,
+"addr": "Nando's Ulundi"
+},
+"Glen Acres Drive Thru": {
+"lat": -26.07826,
+"lng": 28.24852,
+"addr": "Nando's Glen Acres Drive Thru"
+},
+"Mamelodi": {
+"lat": -25.76841,
+"lng": 28.32875,
+"addr": "Nando's Mamelodi"
+},
+"Queensburgh": {
+"lat": -29.87955,
+"lng": 30.92055,
+"addr": "Queensburgh, Durban 5 Purity Ln"
+},
+"Hazyview": {
+"lat": -25.04218,
+"lng": 31.12885,
+"addr": "Hazyview Junction Cnr R40 & Portia Shabangu Dr"
+},
+"Highveld Mall": {
+"lat": -25.88707,
+"lng": 29.26668,
+"addr": "Shop 11, Highveld Mall Mandela St"
+},
+"Wonderpark Drive Thru": {
+"lat": -25.67394,
+"lng": 28.10962,
+"addr": "Nando's Wonderpark Drive Thru"
+},
+"Rosettenville": {
+"lat": -26.24995,
+"lng": 28.05172,
+"addr": "Rosettenville, Johannesburg 117 Main St"
+},
+"Gateway": {
+"lat": -29.72604,
+"lng": 31.06607,
+"addr": "Shop G037, Gateway Theatre of Shopping 1 Palm Blvd"
+},
+"Sun City": {
+"lat": -25.34499,
+"lng": 27.09599,
+"addr": "Shop 13, Sun Central 556"
+},
+"Platinum Square Drive Thru": {
+"lat": -25.70321,
+"lng": 27.25136,
+"addr": "Rustenburg 56 Nelson Mandela Dr"
+},
+"Mafikeng (Plaza Shopping Centre)": {
+"lat": -25.86012,
+"lng": 25.64371,
+"addr": "Cnr Nelson Mandela Rd & Hatchard St,Shop8,Plaza Shopping Centre ."
+},
+"Sanridge Square Drive Thru": {
+"lat": -25.97714,
+"lng": 28.11837,
+"addr": "Shop 46, Sanridge Square Cnr New & Lever Rd"
+},
+"Montecasino": {
+"lat": -26.02372,
+"lng": 28.01237,
+"addr": "Nando's Montecasino"
+},
+"N1 Petroport Panorama Bridge": {
+"lat": -25.62127,
+"lng": 28.27732,
+"addr": "Nando's N1 Petroport Panorama Bridge"
+},
+"Bothasig Drive Thru": {
+"lat": -33.86861,
+"lng": 18.5322,
+"addr": "Nando's Bothasig Drive Thru"
+},
+"Midlands Mall": {
+"lat": -29.58349,
+"lng": 30.37796,
+"addr": "Santuary Rd, Shop 30, Liberty Midlands Mall, ."
+},
+"Bayview": {
+"lat": -29.92252,
+"lng": 30.91113,
+"addr": "Shop1 Daddy's Centre 258 Pelican Drive"
+},
+"Westville Mall": {
+"lat": -29.83642,
+"lng": 30.91821,
+"addr": "Nando's Westville Mall"
+},
+"Southgate Food Court": {
+"lat": -26.26625,
+"lng": 27.98273,
+"addr": "Shop U218, Southgate Mall Cnr Rifle Range & Columbine Ave"
+},
+"Metlife": {
+"lat": -33.94508,
+"lng": 25.50837,
+"addr": "Nando's Metlife"
+},
+"Tzaneen": {
+"lat": -23.82769,
+"lng": 30.1621,
+"addr": "Nando's Tzaneen"
+},
+"Bethlehem": {
+"lat": -28.23226,
+"lng": 28.31887,
+"addr": "Cnr Muller & Hospital St ."
+},
+"Braamfontein": {
+"lat": -26.1929,
+"lng": 28.03604,
+"addr": "30 Melle St,Shop 1,North City House Braamfontein ."
+},
+"Carlton Centre": {
+"lat": -26.20586,
+"lng": 28.04678,
+"addr": "Nando's Carlton Centre"
+},
+"Cavendish Square": {
+"lat": -33.97947,
+"lng": 18.46383,
+"addr": "Nando's Cavendish Square"
+},
+"Castle Gate": {
+"lat": -25.81545,
+"lng": 28.24806,
+"addr": "Nando's Castle Gate"
+},
+"Ladysmith": {
+"lat": -28.55829,
+"lng": 29.77891,
+"addr": "Shop 34, The Oval 21 Keate St"
+},
+"Richards Bay Drive Thru": {
+"lat": -28.74699,
+"lng": 32.05034,
+"addr": "Shop 23, Town Square Mall Bullion Blvd"
+},
+"Paledi": {
+"lat": -23.88987,
+"lng": 29.70112,
+"addr": "R 71, Shop4, Paledi Mall, ."
+},
+"Sasolburg": {
+"lat": -26.81551,
+"lng": 27.82966,
+"addr": "Shop 9, Die Akker Centre Fichardt St"
+},
+"Birch Acres": {
+"lat": -26.03498,
+"lng": 28.19153,
+"addr": "Nando's Birch Acres"
+},
+"Eastgate": {
+"lat": -26.18086,
+"lng": 28.11942,
+"addr": "Shop L65, Eastgate Shopping Centre Cnr Nicol & Bradford Rd"
+},
+"Tsakane": {
+"lat": -26.35639,
+"lng": 28.37028,
+"addr": "Shop 69, Tsakane Mall Cnr Malandela & Modjaji St"
+},
+"Strand Drive Thru": {
+"lat": -34.14691,
+"lng": 18.85627,
+"addr": "Nando's Strand Drive Thru"
+},
+"Sea Point": {
+"lat": -33.90986,
+"lng": 18.39456,
+"addr": "Sea Point, Cape Town 66 - 72 Main Rd"
+},
+"Panorama Centre": {
+"lat": -26.29688,
+"lng": 28.04748,
+"addr": "Kliprivier Dr, Panorama Shopping Centre, ."
+},
+"Roodebasin Drive Thru": {
+"lat": -26.13346,
+"lng": 27.91328,
+"addr": "Shop 9, Valley View Shopping Centre Cnr Hendrick Potgieter & Jim Fouche Rd"
+},
+"Constantia Drive Thru": {
+"lat": -26.14994,
+"lng": 27.92233,
+"addr": "Nando's Constantia Drive Thru"
+},
+"Eshowe": {
+"lat": -28.89416,
+"lng": 31.46778,
+"addr": "Shop 1 53 Osborne Rd"
+},
+"Springbok": {
+"lat": -29.66513,
+"lng": 17.88404,
+"addr": "FIR Sentrum Cnr Hospitaal & Van der Stel St"
+},
+"Broadacres": {
+"lat": -26.00115,
+"lng": 27.98268,
+"addr": "Cnr Valley & Cedar Rd,Phase 2,Shop 6,Broadacres Shopping Centre ."
+},
+"Kuils River Drive Thru": {
+"lat": -33.92845,
+"lng": 18.68118,
+"addr": "Nando's Kuils River Drive Thru"
+},
+"Tongaat": {
+"lat": -29.57017,
+"lng": 31.11806,
+"addr": "Nando's Tongaat"
+},
+"Atteridgeville": {
+"lat": -25.77058,
+"lng": 28.08884,
+"addr": "Khoza St, Shop E5, Attlyn Shopping Centre ."
+},
+"Mafikeng Drive Thru": {
+"lat": -25.83801,
+"lng": 25.63614,
+"addr": "Bessemer St,Shop 3,Kopanang Centre ."
+},
+"Brooklyn": {
+"lat": -25.76994,
+"lng": 28.23469,
+"addr": "471 Fehrsen St,Shop 5,Cherry Lane Shopping Centre ."
+},
+"Kokstad": {
+"lat": -30.54914,
+"lng": 29.42572,
+"addr": "Kokstad 78 Main St"
+},
+"Rustenburg Mall": {
+"lat": -25.6704,
+"lng": 27.24071,
+"addr": "Nando's Rustenburg Mall"
+},
+"Mandeni": {
+"lat": -29.10632,
+"lng": 31.41808,
+"addr": "Cnr Green & White St ."
+},
+"Berea": {
+"lat": -29.85622,
+"lng": 31.0037,
+"addr": "Cnr Noble & King Dinizulu Rd, Shop 50, Berea Centre ."
+},
+"Gezina": {
+"lat": -25.72054,
+"lng": 28.20265,
+"addr": "Motor City Complex Cnr Steve Biko Rd & Nico Smith St"
+},
+"Moodie Street": {
+"lat": -29.81525,
+"lng": 30.85777,
+"addr": "Cnr Moodie St & Dales Ave, ."
+},
+"Savannah Mall": {
+"lat": -23.90444,
+"lng": 29.48725,
+"addr": "Shop No 71, Savannah Mall Entrance No 4 Grobler St"
+},
+"Kuruman": {
+"lat": -27.46276,
+"lng": 23.43771,
+"addr": "Nando's Kuruman"
+},
+"Harrismith": {
+"lat": -28.25512,
+"lng": 29.11564,
+"addr": "Bergview Complex N3 Hwy"
+},
+"Amanzimtoti Drive Thru": {
+"lat": -30.02339,
+"lng": 30.90929,
+"addr": "407 Kingsway, Shop 1, Toti Centre Amanzimtoti ."
+},
+"Brackenfell Drive Thru": {
+"lat": -33.8807,
+"lng": 18.6841,
+"addr": "Old Paarl Rd,Shop 11B,Aroma Village Centre ."
+},
+"Blackheath": {
+"lat": -26.12981,
+"lng": 27.96996,
+"addr": "Cnr Beyers Naude Dr & Pendoring Rd,Shop 3,Blackheath Rendezvous Shopping Centre"
+},
+"Columbine Square": {
+"lat": -26.27307,
+"lng": 28.02995,
+"addr": "Cnr Swartgoud St & Columbine Ave,Shop 7,Columbine square Shopping Centre"
+},
+"Saveways Centre": {
+"lat": -25.86644,
+"lng": 29.22251,
+"addr": "Nando's Saveways Centre"
+},
+"Cape Gate Shopping Center": {
+"lat": -33.85114,
+"lng": 18.69727,
+"addr": "Cnr. Okavango Rd &, De Bron Rd, Cape Gate, Cape Town, 7562, South Africa"
+},
+"Bryanston Drive Thru": {
+"lat": -26.06018,
+"lng": 28.02386,
+"addr": "Nando's Bryanston Drive Thru"
+},
+"Bruma": {
+"lat": -26.17989,
+"lng": 28.11052,
+"addr": "Ernest Oppenheimer Ave, Bruma, Johannesburg, 2026, South Africa"
+},
+"Cornubia Drive Thru": {
+"lat": -29.70906,
+"lng": 31.05154,
+"addr": "Cornubia Shell Service Station, 2 Flanders Dr, Blackburn Estate, Durban, 4301, South Africa"
+},
+"Cosmo Mall": {
+"lat": -26.01332,
+"lng": 27.94036,
+"addr": "Cnr Malibongwe Dr &, Shop 129, Cosmo Mall, Dawn Rd, Cosmo City, Roodepoort, 2188, South Africa"
+},
+"Barlow Park": {
+"lat": -26.09934,
+"lng": 28.079,
+"addr": "180 Katherine St, Barlow Park, Sandton, 2148, South Africa"
+},
+"Vergelegen Plein": {
+"lat": -34.09657,
+"lng": 18.86944,
+"addr": "104 Bizweni Ave, Dennegeur, Cape Town, 7130, South Africa"
+}
+}
