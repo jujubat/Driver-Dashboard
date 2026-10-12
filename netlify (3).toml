@@ -1,0 +1,11 @@
+# Netlify only hosts the static front-end (index.html etc).
+# The login/attendance API (server.py, FastAPI) must run elsewhere (e.g. Render).
+# This rule forwards every /api/* call from the Netlify site to that backend,
+# so the app keeps calling the same-origin "/api" with no code changes.
+#
+
+[[redirects]]
+  from = "/api/*"
+  to = "https://driver-dashboard-1.onrender.com/api/:splat"
+  status = 200
+  force = true
